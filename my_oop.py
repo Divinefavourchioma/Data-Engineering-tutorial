@@ -260,3 +260,10 @@
 # ada = Student()
 # print(ada.scores())
 
+
+
+
+# class Bank:
+#     def __init__(self, money,withdraw):
+#         self.money = money
+#         self.withdraw = withdraw
